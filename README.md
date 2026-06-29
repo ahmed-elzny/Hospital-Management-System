@@ -63,7 +63,7 @@ Coming Soon...
 ## 👨‍💻 Author
 
 Ahmed Elzny
-سس
+
 GitHub
 
 https://github.com/ahmed-elzny
